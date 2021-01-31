@@ -48,7 +48,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `ForBetterDays`,
+        name: `Twin bird & bird`,
         short_name: `walker`,
         start_url: `/`,
         background_color: `#ffffff`,

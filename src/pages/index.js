@@ -10,7 +10,7 @@ import SiteMetadata from "../components/SiteMetadata"
 const IndexPage = ({ data }) => {
   return (
     <Layout>
-      <SiteMetadata title="ForBetterDays" description="자기 자신에 이르는 길" />
+      <SiteMetadata title="쌍둥이 새들의 세상" description="The world of twinbirds" />
 
       <Hero />
 
