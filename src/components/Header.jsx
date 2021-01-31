@@ -29,7 +29,7 @@ const Header = () => {
             className="logo__custom"
             style={{ fontWeight: "500", fontSize: "25px", color: "#1a202c" }}
           >
-            For Better Days
+            Twin bird bird
           </span>
         </Link>
 

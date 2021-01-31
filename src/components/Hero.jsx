@@ -6,7 +6,7 @@ const Hero = () => (
       className="text-3xl sm:text-4xl font-extrabold leading-tight tracking-tight text-gray-900"
       style={{ fontFamily: "Noto Sans KR" }}
     >
-      꿈을 향한 여정
+      쌍둥이 새들의 세상
       <br />
       <span
         className="text-blue-600"
@@ -16,7 +16,7 @@ const Hero = () => (
           fontFamily: "Noto Sans KR"
         }}
       >
-        자기 자신에 이르는 길
+        The world of twinbirds
       </span>
     </h2>
   </div>

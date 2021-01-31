@@ -11,7 +11,7 @@ if (!CONTENTFUL_SPACE_ID || !CONTENTFUL_ACCESS_TOKEN) {
 module.exports = {
   siteMetadata: {
     menu: [
-      { name: "Work", to: "/" },
+      { name: "Writing", to: "/" },
       { name: "About", to: "/about" },
     ],
     links: {
@@ -21,9 +21,9 @@ module.exports = {
       twitter: "https://twitter.com/",
     },
     locale: "en",
-    title: `For Better Days`,
-    description: `For Better Days`,
-    author: `@walker`,
+    title: `Twin bird & bird`,
+    description: `Twin bird & bird`,
+    author: `@twinbird`,
   },
   plugins: [
     `gatsby-plugin-postcss`,
